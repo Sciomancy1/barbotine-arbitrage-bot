@@ -48,4 +48,4 @@ while True:
         print(f"Mode input is incorrect.")
         sys.exit(1)
     i+=1
- or import import or
+ or import import or not
